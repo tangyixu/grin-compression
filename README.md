@@ -1,12 +1,12 @@
 # Project: Grin Compression
 
-Authors: (_TODO: fill in names here!_)
+Authors: Tiffany Tang
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
+*   JDK-23 and VS Code are used for this project.
+*   This project is advised by:
+*   https://osera.cs.grinnell.edu/ttap/data-structures-labs/grin-compression.html
 
 ## Revision Log
 
