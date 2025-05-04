@@ -51,6 +51,7 @@ public class Grin {
      *
      * @param infile the file to encode.
      * @param outfile the file to write the output to.
+     * @throws java.io.IOException
      */
     public static void encode(String infile, String outfile) throws IOException {
         HuffmanTree tree;
